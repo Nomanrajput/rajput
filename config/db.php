@@ -5,4 +5,3 @@
         define('db_pass', '');
         define('db_name', 'youth');
     ?>
-    
